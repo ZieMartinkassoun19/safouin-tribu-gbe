@@ -1,0 +1,26 @@
+{
+  "name": "Safouin Tribu Gbê",
+  "short_name": "Safouin Gbê",
+  "description": "Plateforme de formation et de gestion de la branche Cheminot — District Les Cascades.",
+  "lang": "fr-CI",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d14",
+  "theme_color": "#ed812b",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

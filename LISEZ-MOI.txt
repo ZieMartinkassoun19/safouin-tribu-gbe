@@ -1,0 +1,7 @@
+SAFOUIN TRIBU GBÊ — APPLICATION WEB PROGRESSIVE
+
+Déploiement : téléverser index.html, manifest.json, sw.js, icon-192.png et icon-512.png à la racine du dépôt GitHub Pages, puis activer GitHub Pages en HTTPS. Ouvrir le site dans Chrome/Android et choisir Installer l’application ou Ajouter à l’écran d’accueil.
+
+Données : profils, photos, évaluations, notifications, rapports et registre des jeunes sont conservés localement dans le navigateur. Aucune synchronisation serveur n’est fournie. Protéger l’appareil, limiter l’accès aux données des mineurs et recueillir les autorisations requises avant la collecte ou l’utilisation des coordonnées et photos.
+
+Exports : le registre Excel est fourni en CSV compatible avec Excel. Les PDF sont générés via Imprimer > Enregistrer au format PDF. La carte PNG et le QR code utilisent des bibliothèques CDN et nécessitent une connexion lors de leur chargement. Les notifications sont locales et ne sont pas des notifications push en arrière-plan.
